@@ -25,7 +25,7 @@ repositories {
     mavenLocal()
     maven {
         url = uri("https://repo.runelite.net")
-        url = uri("https://raw.githubusercontent.com/jbx5/hosting/master")
+        url = uri("https://raw.githubusercontent.com/melxin/devious-artifacts/master")
         url = uri("https://repo.openosrs.com/repository/maven")
     }
 }
