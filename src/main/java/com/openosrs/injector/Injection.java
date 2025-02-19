@@ -123,7 +123,7 @@ public class Injection extends InjectData implements InjectTaskHandler
 
 		inject(new RuneliteMenuEntry(this));
 
-		inject(new ServerPacketReceived(this));
+		//inject(new ServerPacketReceived(this));
 
 		if (mode.equals("") || mode.equals("v"))
 		{
